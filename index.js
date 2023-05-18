@@ -16,5 +16,8 @@ mongoose.connect("mongodb://localhost:27017/happy",{
 app.listen(3000,()=>{
     console.log("server is running")
     console.log("on port 3000 it is connected")
+    console.log("on port 3000 it is connected")
+    console.log("on port 3000 it is connected")
+    console.log("on port 3000 it is connected")
 })
 
